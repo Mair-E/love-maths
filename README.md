@@ -37,3 +37,11 @@ You can now use the `heroku` CLI program - try running `heroku apps` to confirm 
 ---
 
 Happy coding!
+
+Wire frames 
+Header
+Game area - controls area, question area
+Submit answer
+Score area 
+
+Mobile, Ipad, Desktop
